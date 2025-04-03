@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "about": "Nosotros",
+    "portfolio": "Portafolio",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title1": "Construyendo Excelencia Digital",
+    "title2": "Transformando Ideas en Código",
+    "subtitle": "Creamos soluciones de software excepcionales que impulsan la innovación y el crecimiento empresarial",
+    "cta": "Inicia tu Proyecto"
+  },
+  "services": {
+    "title": "Nuestros Servicios",
+    "subtitle": "Soluciones integrales para tus necesidades digitales",
+    "webdev": {
+      "title": "Desarrollo Web",
+      "description": "Aplicaciones web modernas y responsivas construidas con tecnologías de vanguardia"
+    },
+    "mobile": {
+      "title": "Desarrollo Móvil",
+      "description": "Aplicaciones nativas y multiplataforma para iOS y Android"
+    },
+    "backend": {
+      "title": "Desarrollo Backend",
+      "description": "Soluciones escalables y seguras del lado del servidor"
+    },
+    "cloud": {
+      "title": "Soluciones Cloud",
+      "description": "Aplicaciones nativas en la nube y gestión de infraestructura"
+    },
+    "security": {
+      "title": "Ciberseguridad",
+      "description": "Soluciones de seguridad integrales y mejores prácticas"
+    },
+    "ui": {
+      "title": "Diseño UI/UX",
+      "description": "Diseño centrado en el usuario que ofrece experiencias excepcionales"
+    }
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "description": "Con más de una década de experiencia en desarrollo de software, hemos ayudado a empresas de todo el mundo a transformar su presencia digital. Nuestro equipo de expertos combina excelencia técnica con innovación creativa para entregar resultados sobresalientes.",
+    "stats": {
+      "clients": "Clientes Satisfechos",
+      "projects": "Proyectos Completados",
+      "years": "Años de Experiencia"
+    }
+  },
+  "portfolio": {
+    "title": "Nuestro Portafolio",
+    "subtitle": "Explora nuestros últimos proyectos e historias de éxito",
+    "filters": {
+      "all": "Todos",
+      "web": "Web",
+      "mobile": "Móvil",
+      "cloud": "Nube"
+    },
+    "projects": {
+      "1": {
+        "title": "Plataforma E-commerce"
+      },
+      "2": {
+        "title": "App de Fitness"
+      },
+      "3": {
+        "title": "Portal Inmobiliario"
+      },
+      "4": {
+        "title": "Migración a la Nube"
+      },
+      "5": {
+        "title": "App de Redes Sociales"
+      },
+      "6": {
+        "title": "Dashboard IoT"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contáctanos",
+    "subtitle": "Ponte en contacto con nuestro equipo",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Tu Correo",
+      "message": "Tu Mensaje",
+      "submit": "Enviar Mensaje"
+    }
+  },
+  "footer": {
+    "description": "Nos apasiona crear soluciones digitales innovadoras que ayudan a las empresas a prosperar en el mundo moderno.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio"
+  }
+}
